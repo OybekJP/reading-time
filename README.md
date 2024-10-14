@@ -2,6 +2,10 @@
 
 This browser extension automatically calculates the estimated reading time for articles and displays it on the page. It works with both English and Japanese articles by calculating the number of words for English text and the number of characters for Japanese text.
 
+<img width="600" alt="スクリーンショット 2024-10-14 9 54 24" src="https://github.com/user-attachments/assets/ff3d3b0f-7a4a-4205-9f29-85c932afbc64">
+
+<img width="600" alt="スクリーンショット 2024-10-14 9 53 10" src="https://github.com/user-attachments/assets/ad707596-02df-4905-89a9-0bad8c0d74c5">
+
 ## Features
 
 - **Automatic Reading Time Calculation**: Adds an estimated reading time badge to articles on web pages.
